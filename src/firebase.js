@@ -7,6 +7,7 @@ import { getFirestore, collection, addDoc, onSnapshot } from "@firebase/firestor
 
 const firebaseConfig = {
   
+  
   apiKey: "AIzaSyCzDNbrsqkaMs6P0_o9Bmx_zJ5DWtqSm3s",
   authDomain: "todolist-e7ddb.firebaseapp.com",
   projectId: "todolist-e7ddb",
